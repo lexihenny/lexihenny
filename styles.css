@@ -1,8 +1,12 @@
 h1  {color: black; text-align: center;}
 p  {color: black; text-align: center;}
+.img_container {
+    width: 100%;
+    text-align: center;
+}
 img {
   width: 400; 
-  height: 800;
+  height: auto;
 }
 .myDiv {
   border: 5px outset red;
