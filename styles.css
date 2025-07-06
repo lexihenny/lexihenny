@@ -1,5 +1,12 @@
-h1  {color: black; text-align: center;}
-p  {color: black; text-align: center;}
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+  text-color: blue;
+}
+
+h2  {color: black; text-align: center;}
+p1  {color: black; text-align: center;}
 .img_container {
     width: 100%;
     text-align: center;
