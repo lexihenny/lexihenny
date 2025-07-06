@@ -18,9 +18,6 @@ p1  {color: black; text-align: center;}
     border: 3px black;
   }
 
-.products .product .image-wrap img {
-       background-color: pink; 
-    }
 
 .imageContainer img {
     display: block;
@@ -28,6 +25,9 @@ p1  {color: black; text-align: center;}
     height: auto;
     object-fit: contain;
   }
+.products .product .image-wrap img {
+       background-color: pink; 
+    }
 
 .myDiv {
   border: 5px outset red;
