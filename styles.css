@@ -18,6 +18,12 @@ p1  {color: black; text-align: center;}
     border: 3px black;
   }
 
+img {
+  width: 400; 
+  height: auto;
+  object-fit: contain;
+}
+
 .products .product .image-wrap img {
        background-color: pink; 
     }
