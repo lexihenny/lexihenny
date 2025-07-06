@@ -11,12 +11,16 @@ p  {color: black; text-align: center;}
 h2  {color: black; text-align: center;}
 p1  {color: black; text-align: center;}
 
-.myDiv {
-  border: 5px outset red;
-  background-color: lightblue;
-  text-align: center;
-  height: auto;
-}
+.imageContainer {
+    width: 500px;
+    height: 500px;
+  }
+.imageContainer img {
+    display: block;
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+  }
 
 img {
   width: 400; 
