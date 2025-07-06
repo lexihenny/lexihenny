@@ -17,6 +17,11 @@ p1  {color: black; text-align: center;}
     background-color: pink;
     border: 3px black;
   }
+
+.products .product .image-wrap img {
+       background-color: pink; 
+    }
+
 .imageContainer img {
     display: block;
     width: 400;
