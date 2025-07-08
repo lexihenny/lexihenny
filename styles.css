@@ -14,8 +14,6 @@ p1  {color: black; text-align: center;}
 .imageContainer {
     width: 70%;
     height: 800px;
-    background-color: pink;
-    border: 3px black;
   }
 
 
@@ -40,7 +38,6 @@ img {
   width: 400; 
   height: auto;
   object-fit: contain;
-  border: 3px black;
 }
 
 .products .product .image-wrap img {
