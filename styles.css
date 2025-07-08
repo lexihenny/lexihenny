@@ -16,24 +16,6 @@ p1  {color: black; text-align: center;}
     height: 800px;
   }
 
-
-/*
-.parent {
-    position: relative;
-    overflow: hidden;
-    //optionally set height and width, it will depend on the rest of the styling used
-}
-
-.child {
-    position: absolute;
-    top: -9999px;
-    bottom: -9999px;
-    left: -9999px;
-    right: -9999px;
-    margin: auto;
-}
-*/
-
 img {
   width: 400; 
   height: auto;
