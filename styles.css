@@ -5,8 +5,8 @@
   height: 300px;
 }
 
-h1  {color: blue; text-align: center;}
-p  {color: black; text-align: center;}
+.myDiv.h1  {color: blue; text-align: center;}
+.myDiv.p  {color: black; text-align: center;}
 
 h2  {color: black; text-align: center;}
 p1  {color: black; text-align: center;}
