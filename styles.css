@@ -22,11 +22,10 @@ img {
   object-fit: contain;
 }
 
-
-.products .product .image-wrap img {
-       background-color: pink; 
-       border: 3px black;
-    }
+.imageContainer {
+  background-color: pink; 
+  border: 3px black;
+  }
 
 
 .myDiv {
