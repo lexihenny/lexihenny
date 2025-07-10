@@ -26,7 +26,7 @@ img {
 
 .imageContainer {
   background-color: pink; 
-  border: 3px #000000;
+  border: 3px outset #000000;
   }
 
 
